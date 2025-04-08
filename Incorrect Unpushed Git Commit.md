@@ -12,6 +12,4 @@ git reset --soft HEAD~1
 ```
 
 ## Reference
-[https://stackoverflow.com/questions/15289768/github-commits-arent-recorded-in-the-your-contributions-calendar
-
-git reset --soft HEAD~1](https://stackoverflow.com/questions/3197413/how-do-i-delete-unpushed-git-commits)
+https://stackoverflow.com/questions/15289768/github-commits-arent-recorded-in-the-your-contributions-calendar

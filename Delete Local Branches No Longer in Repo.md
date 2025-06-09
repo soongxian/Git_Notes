@@ -1,4 +1,4 @@
-# Delete Origin Branches No Longer in Repo
+# Delete Local Branches No Longer in Repo
 There are some git branches in a repo that is deleted by still appearing in origin.
 
 ## Root Cause
